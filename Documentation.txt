@@ -1,0 +1,5 @@
+//////*********   Movies-API  *********/////////////
+1- download zip project from github: https://github.com/david-zuniga/movies-API/tree/master
+2- run the "update-database" command on nuget package console in order to add database tables data
+3- Application does not include CRUD modules (just read ones)
+4- Just run this API project (end points will be called from the react app project)
